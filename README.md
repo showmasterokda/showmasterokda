@@ -17,7 +17,7 @@
 
 <div id="heythere" align="center">
   <h1>
-  Приветик
+ <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Всем+Приветик" width="600px"/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -57,3 +57,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=showmasterokda&theme=radical&locale=ru&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=showmasterokda)](https://github.com/showmasterokda/github-readme-stats)
+
+### 🏆Достижения GITHUB:
+[![trophy](https://github-profile-trophy.vercel.app/?username=showmasterokda)](https://github.com/showmasterokda/github-profile-trophy)
+### 📈График Активности:
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=showmasterokda)](https://github.com/showmasterokda/github-readme-activity-graph)
